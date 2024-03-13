@@ -40,4 +40,3 @@ I also wanted to add that after looking at all the repo's on my github are super
 Anyways, my goal for next time is give the app some touch ups. Change up some of the code to fit the way I learned how to code like with naming conventions and other thigns, I also want to see if I can basically turn this into a website. It sounds very time consuming, but I'll have to see what I can do the next time. 
 
 ```
-
